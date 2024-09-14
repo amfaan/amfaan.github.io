@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amfaan.github.io/Fre/sitemap.Fre.gz
